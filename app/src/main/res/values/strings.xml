@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mistplay</string>
+    <string-array name = "my_games">
+        <item> Pizza</item>
+        <item> Pizze</item>
+        <item> Pizze1</item>
+        <item> Pizze2</item>
+        <item> Pizze2</item>
+
+        <item> football</item>
+        <item> KFC </item>
+        <item> starbucks</item>
+    </string-array>
+</resources>
