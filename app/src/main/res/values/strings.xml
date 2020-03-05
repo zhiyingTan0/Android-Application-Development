@@ -1,14 +1,15 @@
 <resources>
     <string name="app_name">Mistplay</string>
     <string-array name = "my_games">
-        <item> Pizza</item>
-        <item> Pizze</item>
-        <item> Pizze1</item>
-        <item> Pizze2</item>
-        <item> Pizze2</item>
+        <item>   Example: puzzles </item>
+        <item>   ImgURL:(ImgURl that includes "puzzles") </item>
+        <item>   Genre:(Genre that includes "puzzles") </item>
+        <item>   Pid: (Pid that includes "puzzles")</item>
+        <item>   Rating: (Rating that includes "puzzles")</item>
+        <item>   RCount: (Rcount that includes "puzzles")</item>
+        <item>   Subgenre: (Subgenre that includes "puzzles")</item>
 
-        <item> football</item>
-        <item> KFC </item>
-        <item> starbucks</item>
+        <item>   Title: (Title that includes "puzzles") </item>
+
     </string-array>
 </resources>
