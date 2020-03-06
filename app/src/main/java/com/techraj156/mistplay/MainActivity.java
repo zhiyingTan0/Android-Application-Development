@@ -229,8 +229,8 @@ public class MainActivity extends AppCompatActivity {
                                 min=numpy.size();
                             }
                             for(int i =0; i<min;i++){
-                                loader.add(numpy.get(i));
-                                numpy.remove(i);
+                                loader.add(numpy.get(0));
+                                numpy.remove(0);
                             }
                             adapter.clear();
                             adapter.addAll(loader);
